@@ -15,6 +15,7 @@
 
 ### Sobre o Repositório
 ### Esse repositório é um atividade (desafio) do curso de Python, da plataforma DIO, aonde o objetivo é criar um sistema bancário aonde o cliente possa realizar as seguintes operações: Depositar, Sacar e Visualizar um extrato das operações realizadas.
+### Foi criado em 21/10/2025, um arquivo com o nome de DESAFIO, implementando as opções de Cadastro de Usuários, Cadastro de Contas e Listagem de Contas.
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ramngpes&repo=sistemabancario&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ramngpes/sistemabancario)
 
